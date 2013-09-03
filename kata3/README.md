@@ -1,0 +1,1 @@
+Ejercicio: Programa que debe leer los datos de la url dada y hacer 'scraping' para sacar cada título -en este caso de Mario- con su respectivo precio.
